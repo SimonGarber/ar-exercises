@@ -27,3 +27,4 @@ end
 @store2.employees.create(first_name: "Bill", last_name: "Preston", hourly_rate: 69)
 @store2.employees.create(first_name: "Theodore", last_name: "Logan", hourly_rate: 69)
 @store2.employees.create(first_name: "Charles", last_name: "Roberts", hourly_rate: 50)
+
